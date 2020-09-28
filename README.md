@@ -24,7 +24,7 @@ My Skills:
 <p>
 <a href="https://github.com/itsmrajesh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmrajesh&exclude_repo=Python-for-ML&layout=compact&langs_count=10" />
-</a>  &nbsp; &nbsp;
+</a>  &nbsp;
 <a href="https://github.com/itsmrajesh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmrajesh&show_icons=true&count_private=true&custom_title=Rajesh's GitHub Stats"/>
 </a>
