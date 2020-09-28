@@ -1,5 +1,3 @@
-###  Rajesh here
-
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">Computer Science Engineer & Passionate Programmer</h3>
 
