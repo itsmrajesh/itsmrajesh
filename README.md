@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmrajesh" alt="views" /> </p>
 
 My Skills:
-<p align="left">
+<p align="left"> 
+  <a href="https://github.com/itsmrajesh">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> &nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>  &nbsp;
@@ -19,6 +20,7 @@ My Skills:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="60" height="40"/> 
+  </a>
 </p>
 
 <p>
