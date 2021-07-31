@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
-<h3 align="center">Computer Science Engineer & Passionate Programmer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmrajesh" alt="views" /> </p>
@@ -7,19 +7,22 @@
 My Skills:
 <p align="left"> 
   <a href="https://github.com/itsmrajesh">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/>  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="java-script" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_couchdb/apache_couchdb-icon.svg" alt="couchDB" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="git" width="40" height="40"/> &nbsp; 
+ <!-- 
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> &nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="40" height="40"/> &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="c" width="40" height="40"/> &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="60" height="40"/> 
+-->
   </a>
 </p>
 
